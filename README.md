@@ -58,9 +58,9 @@ This guide is suplemented with a [google sheet](https://docs.google.com/spreadsh
 
 ## Resources or Tranings Courses to Refer:
 
-1.Udemy Course: PySpark - Apache Spark Programming in Python for beginners! (https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/?kw=pyspark+for&src=sac&couponCode=ST16MT28125)
+1.Udemy Course: [PySpark - Apache Spark Programming in Python for beginners!](https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/?kw=pyspark+for&src=sac&couponCode=ST16MT28125)
 
-2.Udemy Course: Spark Streaming - Stream Processing in Lakehouse - PySpark! (https://www.udemy.com/course/spark-streaming-using-python/?kw=pyspark+str&src=sac&couponCode=ST16MT28125)
+2.Udemy Course: [Spark Streaming - Stream Processing in Lakehouse - PySpark!](https://www.udemy.com/course/spark-streaming-using-python/?kw=pyspark+str&src=sac&couponCode=ST16MT28125)
 
 
 
