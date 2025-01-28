@@ -2,13 +2,13 @@
 
 [![Stars](https://img.shields.io/github/stars/Realsid/databricks-spark-certification?style=social)](https://github.com/Realsid/databricks-spark-certification) 
 <p align="center">
-  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/db-logo.png">
+  <img src="https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/db-logo.png">
 </p>
 
 Welcome to guide to databricks spark certification ! This repository will help you:
 1. Learn about [Apache Spark framework](https://spark.apache.org/)
 2. Learn to use [pyspark](https://spark.apache.org/docs/latest/api/python/index.html) in databricks enviroment 
-3. Learn about the topics that are required study for the clear [CRT020](https://www.databricks.com/learn/certification/apache-spark-developer-associate) examination
+3. Learn about the topics that are required study for the clear [Databricks Spark Certification](https://www.databricks.com/learn/certification/apache-spark-developer-associate) examination
 
 Throughout the guide more emphesis will be given to a code first methodology with minimal theory when covering topics. Following are the pre-requisites to start using this guide:
 
@@ -18,9 +18,9 @@ Throughout the guide more emphesis will be given to a code first methodology wit
 
 Once you setup the account download the .DBC files and upload it to your databricks account as shown below:
 
-1.Log into databricks community edition and click on import![](https://github.com/Realsid/databricks-spark-certification/blob/master/assets/step1.png)
-2.Click on file and browse![](https://github.com/Realsid/databricks-spark-certification/blob/master/assets/step2.png)
-3. Upload the databricks-spark-certification.dbc file![](https://github.com/Realsid/databricks-spark-certification/blob/master/assets/step3.png)
+1.Log into databricks community edition and click on import![](https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/step1.png)
+2.Click on file and browse![](https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/step2.png)
+3. Upload the databricks-spark-certification.dbc file![](https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/step3.png)
 
 This guide is suplemented with a [google sheet](https://docs.google.com/spreadsheets/d/1QOymDzCGG0LgzoFbSdwMPMEfysVwQs2oyTiIagSBSKM/edit?usp=sharing) where you can find topic wise breakup of material provided in the guide.
 
@@ -29,19 +29,19 @@ This guide is suplemented with a [google sheet](https://docs.google.com/spreadsh
 ## Contents
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/contents.jpg">
+>  <img src="https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/contents.jpg">
 ></p>
 
 ## Chapters
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/chapter1_preview.jpg">
+>  <img src="https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/chapter1_preview.jpg">
 ></p>
 
 ## Diagrams
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/diagrams.jpg">
+>  <img src="https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/diagrams.jpg">
 ></p>
 
 ## Insightful Markdown
