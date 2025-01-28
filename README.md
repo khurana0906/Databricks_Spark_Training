@@ -55,15 +55,3 @@ This guide is suplemented with a [google sheet](https://docs.google.com/spreadsh
 ><p align="center">
 >  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/experience.jpg">
 ></p>
-
-## Scenario based exercises
-
-><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/scenario_based_excercise.JPG">
-></p>
-
-## Solutions
-
-><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/solutions.JPG">
-></p>
