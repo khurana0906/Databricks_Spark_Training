@@ -53,5 +53,5 @@ This guide is suplemented with a [google sheet](https://docs.google.com/spreadsh
 ## Tricks and tips
 
 ><p align="center">
->  <img src="https://github.com/Realsid/databricks-spark-certification/blob/master/assets/experience.jpg">
+>  <img src="https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/Join.jpg">
 ></p>
