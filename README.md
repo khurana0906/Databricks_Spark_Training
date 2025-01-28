@@ -7,7 +7,7 @@
 Welcome to guide to databricks spark certification ! This repository will help you:
 1. Learn about [Apache Spark framework](https://spark.apache.org/)
 2. Learn to use [pyspark](https://spark.apache.org/docs/latest/api/python/index.html) in databricks enviroment 
-3. Learn about the topics that are required study for the clear [Databricks Spark Certification](https://www.databricks.com/learn/certification/apache-spark-developer-associate) examination
+3. Learn about the topics required to study for clearing the [Databricks Spark Certification](https://www.databricks.com/learn/certification/apache-spark-developer-associate) examination
 
 Throughout the guide more emphesis will be given to a code first methodology with minimal theory when covering topics. Following are the pre-requisites to start using this guide:
 
@@ -62,7 +62,6 @@ This guide is suplemented with a [google sheet](https://docs.google.com/spreadsh
 
 2.Udemy Course: Spark Streaming - Stream Processing in Lakehouse - PySpark! (https://www.udemy.com/course/spark-streaming-using-python/?kw=pyspark+str&src=sac&couponCode=ST16MT28125)
 
-3.Youtube Subscription Course : (www.youtube.com/@ScholarNest)
 
 
 
