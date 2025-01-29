@@ -21,8 +21,6 @@ Once you setup the account download the .DBC files and upload it to your databri
 2.Click on file and browse![](https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/step2.png)
 3. Upload the databricks-spark-certification.dbc file![](https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/step3.png)
 
-This guide is suplemented with a [google sheet](https://docs.google.com/spreadsheets/d/1SMDOs0VS-CLt98Kxq9ti9O4RvZF32mh_1N_MXtm6lFk/edit?usp=sharing) where you can find topic wise breakup of material provided in the guide.
-
 # Snippets
 
 ## Contents
