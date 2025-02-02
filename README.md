@@ -4,7 +4,7 @@
   <img src="https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/db-logo.png">
 </p>
 
-Welcome to guide to databricks spark certification ! This repository will help you:
+Welcome to the guide for Databricks Spark ! This repository will help you:
 1. Learn about [Apache Spark framework](https://spark.apache.org/)
 2. Learn to use [pyspark](https://spark.apache.org/docs/latest/api/python/index.html) in databricks enviroment 
 3. Learn about the topics required to study for clearing the [Databricks Spark Certification](https://www.databricks.com/learn/certification/apache-spark-developer-associate) examination
