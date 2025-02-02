@@ -1,4 +1,4 @@
-# A Guide to Databricks Spark Certification
+# A Guide to Databricks Spark 
 
 <p align="center">
   <img src="https://github.com/khurana0906/Databricks_Spark_Certification/blob/main/assets/db-logo.png">
